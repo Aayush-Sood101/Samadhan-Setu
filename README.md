@@ -1,7 +1,5 @@
 # Samadhan Setu - Maintenance Requisition System
 
-![Samadhan Setu](https://via.placeholder.com/1200x400?text=Samadhan+Setu)
-
 ## Overview
 
 Samadhan Setu is a web application designed to streamline campus maintenance management. It provides an intuitive platform for students to submit maintenance requests for their dormitories and for administrators to manage these requests efficiently.
